@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · AI/ML Engineer · Blockchain Builder**
 
-Building AI systems, agentic workflows, and developer tools that ship fast and solve real problems.
+Building AI systems, developer tools, and products that ship fast and solve real problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pulkit-saraf-893213290)
 [![X](https://img.shields.io/badge/@PsudoKit-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/psudokit)
@@ -19,96 +19,54 @@ Building AI systems, agentic workflows, and developer tools that ship fast and s
 
 ---
 
-### 🏆 Track Record
+### 🔷 goto stack
+
+`TypeScript` `JavaScript` `Python` `Java` `Rust` `Solidity` `SQL`
+`React` `Next.js` `Tailwind CSS` `Framer Motion`
+`Node.js` `Express` `Spring Boot`
+`LangChain` `RAG` `TensorFlow` `Scikit-learn` `Agent Systems`
+`Solidity` `Hardhat` `Ethers.js` `Stellar/Soroban` `Anchor (Solana)`
+`PostgreSQL` `MongoDB` `Redis` `Docker` `Turborepo` `Vercel`
+
+---
+
+### 🔷 track record
 
 ```
 30+ Hackathons  ·  8 Wins  ·  Selected for ETHGlobal, Algorand Ecosystem, ETH Mumbai
 ```
 
-Currently a **Full Stack Intern @ [ArmorIQ.ai](https://armorclaw.com)** — working on cybersecurity & AI governance infrastructure.
+Currently **Full Stack Intern @ [ArmorIQ.ai](https://armorclaw.com)**  cybersecurity & AI governance infrastructure.
 
 ---
 
-## 🚀 Featured Projects
+### 🔷 current work
 
-### [Opsuna](https://github.com/Pulkit7070/opsuna) — Generative UI Engine
-> Natural language → production-ready React components. Solo-built.
-
-Turn plain English descriptions into fully functional, styled React components in real-time. No templates, no drag-and-drop — just describe what you want and get shippable code.
-
-`Next.js` `TypeScript` `LLM Agents` `Generative UI`
-
----
-
-### [HaloAI](https://github.com/Pulkit7070/haloai) — AI Desktop Assistant
-> Hackathon-built desktop AI assistant with blockchain-native wallet integration.
-
-A desktop-native AI assistant that combines local intelligence with on-chain capabilities — built with Stellar/Soroban smart contracts, Electron, and Rust. **Built with Team Kaizen.**
-
-`Electron` `Rust` `Stellar/Soroban` `AI Agents`
+- **[Opsuna](https://github.com/Pulkit7070/opsuna)** - Generative UI engine. Natural language → production-ready React components. Solo-built.
+- **[HaloAI](https://github.com/Pulkit7070/haloai)** - AI desktop assistant with blockchain-native wallet integration. Electron, Rust, Stellar/Soroban. Built with Team Kaizen.
+- **[agmonverse](https://github.com/Pulkit7070/agmonverse)** - AI-powered AMM optimizer that defends against LVR attacks on Monad. *Monad Blitz Hackathon Winner 🏆*
+- **[multigravity-pro](https://github.com/Pulkit7070/multigravity-pro)** - Run unlimited Antigravity IDE profiles simultaneously. Fixed critical Windows bugs, added status/link/export/import. `npm i -g multigravity-pro`
+- **[get-cooked](https://github.com/Pulkit7070/get-cooked)** - Monitor AI agent usage across Claude Code, Cursor & Copilot. Alerts before rate limits, generates handoff files. `npm i -g get-cooked`
+- **[NFT Marketplace](https://github.com/Pulkit7070/nft-marketplace)** - Decentralized marketplace for AI-generated space-themed NFTs. Solidity, IPFS, Ethers.js.
 
 ---
 
-### [agmonverse](https://github.com/Pulkit7070/agmonverse) — AI-Powered AMM Optimizer *(Monad Blitz Hackathon Winner 🏆)*
-> AI agents that optimize automated market makers and defend against LVR attacks.
+### 🔷 building from zero
 
-Uses ML models to dynamically adjust AMM parameters, detect sandwich attacks, and minimize loss-versus-rebalancing in real-time on Monad.
-
-`Solidity` `Python ML` `DeFi` `Monad`
+I build from zero. Whether it's a generative UI engine, an AI agent that trades on-chain, a CLI tool devs actually install, or a hackathon project shipped in 36 hours  I work across the entire stack. Frontend to smart contracts to ML models to deployment. I care less about stack debates and more about shipping things people actually use.
 
 ---
 
-### [BrickByte](https://github.com/Pulkit7070/brickbyte) — Fractional Real Estate Platform
-> ML-powered fractional real estate investing with price prediction.
+### 🔷 currently exploring
 
-Buy fractional ownership in real estate backed by an ML price prediction model, investment scoring engine, and ROI-based comparison dashboard.
-
-`React` `Python ML` `Node.js` `MongoDB`
-
----
-
-### [AI Candlestick Pattern Detector](https://github.com/Pulkit7070/ai-candlestick-detector)
-> TradingView-style AI tool for candlestick pattern recognition and market prediction.
-
-Detects candlestick patterns across timeframes, analyzes historical signal accuracy, generates daily watchlists, and surfaces high-probability setups.
-
-`Python` `Pandas` `ML` `Feature Engineering`
+- **AI agent systems** - building autonomous agents that interact with real-world systems, not just chatbots
+- **Rust** - systems-level tooling, CLI performance, blockchain runtimes
+- **MCP architecture** - model context protocol servers, tool orchestration, agentic workflows
+- **Solana/React Native** - mobile-first crypto experiences
 
 ---
 
-### [NFT Marketplace](https://github.com/Pulkit7070/nft-marketplace) — Decentralized AI-Generated NFTs
-> Mint, buy, and sell AI-generated space-themed NFTs with on-chain metadata.
-
-Full-stack decentralized marketplace with Solidity smart contracts, IPFS-pinned metadata, and AI-powered NFT generation.
-
-`React` `Solidity` `Hardhat` `Ethers.js` `IPFS`
-
----
-
-## 🔧 Recently Shipped Tools
-
-| Tool | What it does | Install |
-|------|-------------|---------|
-| **[multigravity-pro](https://github.com/Pulkit7070/multigravity-pro)** | Run unlimited Antigravity IDE profiles simultaneously. Fixed critical Windows bugs, added status/link/export/import commands. | `npm i -g multigravity-pro` |
-| **[get-cooked](https://github.com/Pulkit7070/get-cooked)** | Monitor AI agent usage across Claude Code, Cursor & Copilot. Alerts before rate limits, generates handoff files. | `npm i -g get-cooked` |
-
----
-
-## 🛠️ Tech Stack
-
-| Domain | Technologies |
-|--------|-------------|
-| **Languages** | TypeScript · JavaScript · Python · Java · Rust · SQL · Solidity |
-| **Frontend** | React · Next.js · Tailwind CSS · Framer Motion |
-| **Backend** | Node.js · Express · Spring Boot |
-| **AI/ML** | LangChain · RAG · TensorFlow · Scikit-learn · Agent Systems |
-| **Blockchain** | Solidity · Hardhat · Ethers.js · Stellar/Soroban · Anchor (Solana) |
-| **Databases** | PostgreSQL · MongoDB · MySQL · Redis |
-| **Infra & Tools** | Docker · Turborepo · Vercel · Firebase · Git · GitHub Actions |
-
----
-
-## 📊 Stats
+### 📊 stats
 
 <div align="center">
 
@@ -125,7 +83,7 @@ Full-stack decentralized marketplace with Solidity smart contracts, IPFS-pinned 
 
 ---
 
-## 🏅 LeetCode
+### 🏅 leetcode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Pulkit7070?theme=dark&font=Montserrat&border=0" />
@@ -133,11 +91,11 @@ Full-stack decentralized marketplace with Solidity smart contracts, IPFS-pinned 
 
 ---
 
-## 💼 Work With Me
+### 💼 work with me
 
 I'm open to **freelance projects, sponsorships, and full-time roles** in AI/ML, full-stack, or blockchain engineering.
 
-If you're a company building something ambitious — I ship fast, I've won hackathons against 500+ teams, and I care about craft.
+If you're building something ambitious  I ship fast, I've won hackathons against 500+ teams, and I care about craft.
 
 <div align="center">
 
@@ -150,5 +108,5 @@ If you're a company building something ambitious — I ship fast, I've won hacka
 ---
 
 <div align="center">
-  <sub>Building in public as <a href="https://x.com/psudokit">@PsudoKit</a> · Star a repo if it helped you ⭐</sub>
+  <sub>building in public as <a href="https://x.com/psudokit">@PsudoKit</a> · star a repo if it helped you ⭐</sub>
 </div>
