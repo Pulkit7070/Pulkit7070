@@ -1,148 +1,154 @@
 <div align="center">
-  <h1>Hi, I'm Pulkit 👋</h1>
-  <h3>Full-Stack Developer • AI/ML Engineer </h3>
+
+# Pulkit Saraf
+
+**Full-Stack Developer · AI/ML Engineer · Blockchain Builder**
+
+Building AI systems, agentic workflows, and developer tools that ship fast and solve real problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pulkit-saraf-893213290)
+[![X](https://img.shields.io/badge/@PsudoKit-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/psudokit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://psudokit.live)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulkitsaraf.dev@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@psudokit)
+
+[![GitHub followers](https://img.shields.io/github/followers/Pulkit7070?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/Pulkit7070)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Pulkit7070)
+
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/pulkit-saraf-893213290"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin" height="25"/></a>
-  <a href="https://x.com/psudokit"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=flat&logo=x" height="25"/></a>
-  <a href="https://medium.com/@psudokit"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" height="25"/></a>
-  <a href="mailto:pulkitsaraf.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail" height="25"/></a>
-  <a href="https://github.com/Pulkit7070"><img src="https://img.shields.io/github/followers/Pulkit7070?label=Followers&style=social" height="25"/></a>
-</p>
+---
+
+### 🏆 Track Record
+
+```
+30+ Hackathons  ·  8 Wins  ·  Selected for ETHGlobal, Algorand Ecosystem, ETH Mumbai
+```
+
+Currently a **Full Stack Intern @ [ArmorIQ.ai](https://armorclaw.com)** — working on cybersecurity & AI governance infrastructure.
 
 ---
 
-##  About Me  
-I’m a developer who builds **AI systems, ML models, agentic workflows, and full-stack products**.  
-I enjoy solving real problems and creating tools that feel fast, practical, and impactful.
+## 🚀 Featured Projects
 
-My work revolves around:
+### [Opsuna](https://github.com/Pulkit7070/opsuna) — Generative UI Engine
+> Natural language → production-ready React components. Solo-built.
 
-- Full-Stack Engineering (**React, Next.js, Spring Boot, Node.js**)  
-- Machine Learning (**pattern detection, predictive models, automation**)  
-- AI Systems (**RAG workflows, LLM agents, SDS Reactive systems**)  
-- Blockchain Apps (**Solidity, Hardhat, Ethers.js, IPFS**)  
-- Product thinking & scalable system architecture  
+Turn plain English descriptions into fully functional, styled React components in real-time. No templates, no drag-and-drop — just describe what you want and get shippable code.
+
+`Next.js` `TypeScript` `LLM Agents` `Generative UI`
 
 ---
 
-## 🧩 Featured Projects (Updated)
+### [HaloAI](https://github.com/Pulkit7070/haloai) — AI Desktop Assistant
+> Hackathon-built desktop AI assistant with blockchain-native wallet integration.
 
-### 🔹 **Somnia — Smart Wallet Copilot (AI + SDS Reactive Wallet)**
-A real-time intelligent wallet assistant that:  
-- Predicts gas volatility  
-- Flags risky transactions  
-- Detects on-chain events  
-- Auto-categorizes activity  
-- Provides live insights from SDS  
+A desktop-native AI assistant that combines local intelligence with on-chain capabilities — built with Stellar/Soroban smart contracts, Electron, and Rust. **Built with Team Kaizen.**
 
-**Tech:** Somnia SDS, Next.js, TypeScript, Agentic AI
+`Electron` `Rust` `Stellar/Soroban` `AI Agents`
 
 ---
 
-### 🔹 **BrickByte — Fractional Real Estate Investing Platform**
-A platform for buying fractional ownership in real estate.  
-Includes:  
-- Price prediction ML model  
-- Investment scoring engine  
-- Property comparison dashboard  
-- ROI / location-based filters  
+### [agmonverse](https://github.com/Pulkit7070/agmonverse) — AI-Powered AMM Optimizer *(Monad Blitz Hackathon Winner 🏆)*
+> AI agents that optimize automated market makers and defend against LVR attacks.
 
-**Tech:** Python ML, React, Node.js, MongoDB  
+Uses ML models to dynamically adjust AMM parameters, detect sandwich attacks, and minimize loss-versus-rebalancing in real-time on Monad.
+
+`Solidity` `Python ML` `DeFi` `Monad`
 
 ---
 
-### 🔹 **AI Candlestick Pattern Detector**
-TradingView-like AI tool that:  
-- Detects candlestick patterns  
-- Analyzes historical signals  
-- Generates daily watchlists  
-- Displays market predictions  
+### [BrickByte](https://github.com/Pulkit7070/brickbyte) — Fractional Real Estate Platform
+> ML-powered fractional real estate investing with price prediction.
 
-**Tech:** Python, ML, Pandas, Feature Engineering  
+Buy fractional ownership in real estate backed by an ML price prediction model, investment scoring engine, and ROI-based comparison dashboard.
+
+`React` `Python ML` `Node.js` `MongoDB`
 
 ---
 
-### 🔹 **AI Expense Tracker (Spring Boot)**
-An AI-powered financial assistant that:  
-- Categorizes transactions  
-- Identifies unnecessary expenses  
-- Suggests investment paths  
-- Generates financial insights  
+### [AI Candlestick Pattern Detector](https://github.com/Pulkit7070/ai-candlestick-detector)
+> TradingView-style AI tool for candlestick pattern recognition and market prediction.
 
-**Tech:** Spring Boot, PostgreSQL, ML models, React  
+Detects candlestick patterns across timeframes, analyzes historical signal accuracy, generates daily watchlists, and surfaces high-probability setups.
+
+`Python` `Pandas` `ML` `Feature Engineering`
 
 ---
 
-### 🔹 **Decentralized NFT Marketplace (AI + Blockchain)**
-A marketplace for AI-generated space-themed NFTs.  
-Built with:  
-- Solidity contracts  
-- IPFS metadata  
-- AI generation using RAG  
-- Secure wallet interactions  
+### [NFT Marketplace](https://github.com/Pulkit7070/nft-marketplace) — Decentralized AI-Generated NFTs
+> Mint, buy, and sell AI-generated space-themed NFTs with on-chain metadata.
 
-**Tech:** React, Solidity, Hardhat, Ethers.js, IPFS  
+Full-stack decentralized marketplace with Solidity smart contracts, IPFS-pinned metadata, and AI-powered NFT generation.
+
+`React` `Solidity` `Hardhat` `Ethers.js` `IPFS`
 
 ---
 
-### 🔹 **Offline P2P Data Transfer System**
-A protocol that sends data **without internet**, using:  
-- Local mesh networks  
-- Secure encrypted transfer  
-- Lightweight routing logic  
+## 🔧 Recently Shipped Tools
 
-**Tech:** Python, networking, cryptography  
-
----
-
-
-## 🛠️ Updated Tech Stack
-
-### **Languages**
-Java • JavaScript • TypeScript • Python • SQL  
-
-### **Frontend**
-React • Next.js • Tailwind CSS • Framer Motion  
-
-### **Backend**
-Spring Boot • Node.js • Express.js  
-
-### **Databases**
-PostgreSQL • MongoDB • MySQL  
-
-### **AI/ML**
-RAG • LangChain • TensorFlow • Scikit-learn  
-Pattern recognition • Predictive modeling • Agent systems  
-
-### **Blockchain**
-Solidity • Hardhat • Ethers.js • IPFS  
-
-### **Tools**
-Docker • Redis • Firebase • Git • Somnia SDS  
+| Tool | What it does | Install |
+|------|-------------|---------|
+| **[multigravity-pro](https://github.com/Pulkit7070/multigravity-pro)** | Run unlimited Antigravity IDE profiles simultaneously. Fixed critical Windows bugs, added status/link/export/import commands. | `npm i -g multigravity-pro` |
+| **[get-cooked](https://github.com/Pulkit7070/get-cooked)** | Monitor AI agent usage across Claude Code, Cursor & Copilot. Alerts before rate limits, generates handoff files. | `npm i -g get-cooked` |
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | TypeScript · JavaScript · Python · Java · Rust · SQL · Solidity |
+| **Frontend** | React · Next.js · Tailwind CSS · Framer Motion |
+| **Backend** | Node.js · Express · Spring Boot |
+| **AI/ML** | LangChain · RAG · TensorFlow · Scikit-learn · Agent Systems |
+| **Blockchain** | Solidity · Hardhat · Ethers.js · Stellar/Soroban · Anchor (Solana) |
+| **Databases** | PostgreSQL · MongoDB · MySQL · Redis |
+| **Infra & Tools** | Docker · Turborepo · Vercel · Firebase · Git · GitHub Actions |
+
+---
+
+## 📊 Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pulkit7070&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pulkit7070&theme=radical" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pulkit7070&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pulkit7070&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit7070&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150" />
+
 </div>
 
 ---
 
-## 🏆 LeetCode
+## 🏅 LeetCode
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Pulkit7070?theme=dark&font=Montserrat" />
+  <img src="https://leetcard.jacoblin.cool/Pulkit7070?theme=dark&font=Montserrat&border=0" />
 </p>
 
 ---
 
-## 🌱 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/pulkit-saraf-893213290"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin" height="25"/></a>
-  <a href="https://x.com/psudokit"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x" height="25"/></a>
-  <a href="https://medium.com/@psudokit"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" height="25"/></a>
-  <a href="mailto:pulkitsaraf.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail" height="25"/></a>
-</p>
+## 💼 Work With Me
+
+I'm open to **freelance projects, sponsorships, and full-time roles** in AI/ML, full-stack, or blockchain engineering.
+
+If you're a company building something ambitious — I ship fast, I've won hackathons against 500+ teams, and I care about craft.
+
+<div align="center">
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_My_Work-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Pulkit7070)
+[![Hire Me](https://img.shields.io/badge/Let's_Talk-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pulkit-saraf-893213290)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://psudokit.live)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Building in public as <a href="https://x.com/psudokit">@PsudoKit</a> · Star a repo if it helped you ⭐</sub>
+</div>
