@@ -40,13 +40,6 @@ Currently **Full Stack Intern @ [ArmorIQ.ai](https://armorclaw.com)**  cybersecu
 
 ---
 
-### 🔷 open source
-
-19+ PRs across [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger), [openfga/openfga](https://github.com/openfga/openfga), and [meshery/meshery](https://github.com/meshery/meshery) — gRPC handlers, storage layers, UI accessibility, and CLI fixes.
-[jaeger-ui #3905](https://github.com/jaegertracing/jaeger-ui/pull/3905) ✅ merged by Yuri Shkuro.
-
----
-
 ### 🔷 current work
 
 - **[Opsuna](https://github.com/Pulkit7070/opsuna)** - Generative UI engine. Natural language → production-ready React components. Solo-built.
@@ -55,6 +48,13 @@ Currently **Full Stack Intern @ [ArmorIQ.ai](https://armorclaw.com)**  cybersecu
 - **[multigravity-pro](https://github.com/Pulkit7070/multigravity-pro)** - Run unlimited Antigravity IDE profiles simultaneously. Fixed critical Windows bugs, added status/link/export/import. `npm i -g multigravity-pro`
 - **[get-cooked](https://github.com/Pulkit7070/get-cooked)** - Monitor AI agent usage across Claude Code, Cursor & Copilot. Alerts before rate limits, generates handoff files. `npm i -g get-cooked`
 - **[NFT Marketplace](https://github.com/Pulkit7070/nft-marketplace)** - Decentralized marketplace for AI-generated space-themed NFTs. Solidity, IPFS, Ethers.js.
+
+---
+
+### 🔷 open source
+
+19+ PRs across [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger), [openfga/openfga](https://github.com/openfga/openfga), and [meshery/meshery](https://github.com/meshery/meshery) — gRPC handlers, storage layers, UI accessibility, and CLI fixes.
+[jaeger-ui #3905](https://github.com/jaegertracing/jaeger-ui/pull/3905) ✅ merged by Yuri Shkuro.
 
 ---
 
