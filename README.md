@@ -31,11 +31,6 @@ Building AI systems, developer tools, and products that ship fast and solve real
 ---
 
 ### 🔷 track record
-
-```
-30+ Hackathons  ·  8 Wins  ·  Selected for ETHGlobal, Algorand Ecosystem, ETH Mumbai
-```
-
 Currently **Full Stack Intern @ [ArmorIQ.ai](https://armorclaw.com)**  cybersecurity & AI governance infrastructure.
 
 ---
@@ -77,14 +72,19 @@ I build from zero. Whether it's a generative UI engine, an AI agent that trades 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pulkit7070&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pulkit7070&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
+<a href="https://github.com/Pulkit7070">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pulkit7070&theme=tokyonight" height="180" />
+</a>
+<a href="https://github.com/Pulkit7070">
+  <img src="https://streak-stats.demolab.com/?user=Pulkit7070&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit7070&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pulkit7070&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pulkit7070&theme=tokyonight" height="180" />
 
 </div>
 
