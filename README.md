@@ -49,7 +49,6 @@ Currently **Full Stack Intern @ [ArmorIQ.ai](https://armorclaw.com)**  cybersecu
 ### 🔷 open source
 
 19+ PRs across [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger), [openfga/openfga](https://github.com/openfga/openfga), and [meshery/meshery](https://github.com/meshery/meshery) — gRPC handlers, storage layers, UI accessibility, and CLI fixes.
-[jaeger-ui #3905](https://github.com/jaegertracing/jaeger-ui/pull/3905) ✅ merged by Yuri Shkuro.
 
 ---
 
