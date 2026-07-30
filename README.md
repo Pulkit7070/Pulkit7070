@@ -63,7 +63,7 @@ I build from zero. Whether it's a generative UI engine, an AI agent that trades 
 - **AI agent systems** - building autonomous agents that interact with real-world systems, not just chatbots
 - **Rust** - systems-level tooling, CLI performance, blockchain runtimes
 - **MCP architecture** - model context protocol servers, tool orchestration, agentic workflows
-- **Solana/React Native** - mobile-first crypto experiences
+
 
 ---
 
