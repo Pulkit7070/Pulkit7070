@@ -31,7 +31,7 @@ Building AI systems, developer tools, and products that ship fast and solve real
 ---
 
 ### 🔷 track record
-Currently **Full Stack Intern @ [ArmorIQ.ai](https://armorclaw.com)**  cybersecurity & AI governance infrastructure.
+Currently **AI Engineer @ [ArmorIQ.ai](https://armorclaw.com)**  cybersecurity & AI governance infrastructure.
 
 ---
 
